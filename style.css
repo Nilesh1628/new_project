@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #0779e4 3px solid;
+}
+
+header h1 {
+    text-align: center;
+}
+
+main {
+    padding: 15px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#changeThemeBtn {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#changeThemeBtn:hover {
+    background-color: #99e919;
+}
+
+.dark-theme {
+    background-color: #333;
+    color: white;
+}
+
+.dark-theme header {
+    background: #222;
+    color: #ddd;
+}
+
+.dark-theme #changeThemeBtn {
+    background-color: #6e07e4;
+    color: #ffffff;
+}
+
+#changePage{
+    align-items: last baseline;
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #555;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+#changePage:hover {
+    background-color: #e90f0f;
+}
+
+#chngbtn{
+    align-items: first baseline;
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #555;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+#chngbtn:hover {
+    background-color: aqua;
+}
+
+
+
+
+
+
+

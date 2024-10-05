@@ -1,0 +1,17 @@
+body{
+ background-image: url;
+}
+#othr{
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #555;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+#othr:hover {
+    background-color: rgb(0, 110, 255);
+}
+
+
